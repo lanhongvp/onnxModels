@@ -1,0 +1,93 @@
+:‰
+ä
+max_trip_count
+keep_going_in
+b
+ab_loopa_out"Loop*§
+body2›
+&
+a_in
+b_inmy_local	inner_add"Add
+(
+a_in
+b_in
+a_sub_b_in	inner_sub"Sub
+'
+a_ina_outinner_identity"Identity
+<
+
+a_sub_b_in
+
+a_sub_b_inuser_defined_vals
+inner_add2"Add
+=
+keep_going_inpkeep_going_inp_2inner_identity2"IdentityloopbodyZ
+iteration_num
+
+
+Z
+keep_going_inp
+
+	
+Z
+b_in
+
+
+Z
+a_in
+
+
+b
+keep_going_inp_2
+
+	
+b
+
+a_sub_b_in
+
+
+b
+a_outj
+my_local
+
+
+j
+
+a_sub_b_in
+
+
+j
+user_defined_vals
+
+
+j
+keep_going_inp_2
+
+	
+ outerZ
+a
+
+
+Z
+b
+
+
+Z
+keep_going_in
+
+	
+Z
+max_trip_count
+
+
+b
+b_loop
+
+
+b
+a_outj
+b_loop
+
+
+j
+a_outB
